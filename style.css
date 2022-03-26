@@ -1,0 +1,181 @@
+#webTitle{
+word-spacing: normal;
+text-align: right;
+padding-left: 350px;
+font-family:'Playball', cursive; ;
+font-size: 34px;
+}
+
+#homebody {
+    background-image: url('https://i.pinimg.com/originals/ca/27/57/ca2757320c646f22fa23fd63aa17131b.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: right;
+    background-size: cover;
+
+}
+
+a {
+    color: mintcream;
+    background-color: transparent;
+    text-decoration: none;
+    font-size: larger;
+    }
+
+ #div1 {
+background-color: #00ab84;
+font-size: 20px;
+height: 45px;
+word-spacing: 100px;
+color:aliceblue;
+ }
+
+ .help {
+     text-align: center;
+     color: #ea9c9e;
+     font-size: 42px;
+    font-weight: bold;
+     width: fit-content;
+     margin-left: 250px;     
+ }
+
+ .leftcenter {
+     padding-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-right: 400px;
+    
+  }
+
+.button {
+    background-color: #00ab84;
+    color: white;
+    height: 40px;
+    width: 100px;
+    border-radius: 10px;
+    }
+
+  #searchbox {
+height: 40px;
+width: 450px;
+margin-left: 50PX;
+margin-bottom: 80px;
+font-size: large;
+  }
+
+  #contact-img {
+    background-image: url('https://images.unsplash.com/photo-1587671928305-b7b08aa27f2f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwcm9maWxlLXBhZ2V8NHx8fGVufDB8fHx8&w=1000&q=80');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: left;
+}
+
+#box {
+    background-color: bisque;
+    opacity: 0.9;
+    color:black;    
+    height: 700px;
+    width: 700px;
+    margin-left: 700px;
+    margin-top: 90px;
+    background-attachment: fixed;
+    text-align: center;
+    font-size: large;
+}
+
+.title {
+    font-size: 70px;
+    color:black;
+    font-weight: 200px;
+    text-align:right;
+    margin-right: 80px;
+}
+
+#planttitle {
+    font-size: 45px;
+    color: black;
+}
+
+#list {
+    font-size: 30px;
+
+}
+
+.contactboxes {
+    height:35px;
+    width:280px;
+}
+
+.messagebox {
+    width: 410px;
+    height: 91px;
+    margin-left: 50px ;
+
+}
+
+#button2 {
+    height: 50px;
+    width:90px;
+    background-color:#006a4e;
+    color: white;
+    border-radius: 10px;
+    margin-left: 10px;
+}
+
+#table {
+    margin-right: 100px;
+    background-color: #006a4e;
+    opacity: 0.7;
+    color: white;
+    height: 141px;
+    width: 700px;
+}
+
+#tabletitles {
+    font-size: 20px;
+}
+
+.table-data{
+font-size: 22px;
+text-align: center;
+padding-left: 40px;
+}
+
+#contact-Adjust {
+    text-align: right;
+    height: 45px;
+    width: 40px;
+}
+
+#box2 {
+    background-color: bisque;
+    color:cornflowerblue;
+    font-weight:bold;
+    font-size: 50px;
+    text-align: center;
+
+}
+
+#about-image {
+height: 400px;
+width: 550px;
+margin-left: 210px;
+}
+
+#about-image2 {
+    padding-left: 60px;
+    height: 400px;
+    width: 550px;
+}
+
+.about-p {
+    font-size: 20px;
+}
+
+.about-text-size {
+font-size: 30px;
+}
+
+
